@@ -165,34 +165,6 @@ Community Feedback
 ---
 
 
-# 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/community-hero.git
-```
-
-### Navigate to the Project
-
-```bash
-cd community-hero
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Run the Development Server
-
-```bash
-npm run dev
-```
-
----
-
 # 🤝 Contributing
 
 Contributions are welcome!
