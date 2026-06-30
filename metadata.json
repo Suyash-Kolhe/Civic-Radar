@@ -1,0 +1,6 @@
+{
+  "name": "Civic Issue Reporting Hub",
+  "description": "A community-driven platform for reporting and tracking local civic issues, featuring Gemini-powered classification, interactive geotagging, community verification, and predictive hotspot analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
