@@ -161,66 +161,9 @@ Community Feedback
 * Real-time public feedback
 * Actionable analytics
 
----
-
-# 📊 Future Enhancements
-
-* Voice-based issue reporting
-* Multilingual support
-* Offline reporting mode
-* Drone-assisted infrastructure monitoring
-* IoT sensor integration
-* WhatsApp & Telegram reporting
-* Smart city API integrations
-* AI chatbot for civic assistance
 
 ---
 
-# 🛠️ Tech Stack (Example)
-
-### Frontend
-
-* React.js / Next.js
-* Tailwind CSS
-* Leaflet / Google Maps API
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB / PostgreSQL
-
-### AI & ML
-
-* Gemini API / OpenAI API
-* TensorFlow
-* Computer Vision models
-
-### Cloud
-
-* Firebase
-* AWS / Azure / Google Cloud
-
----
-
-# 📸 Screenshots
-
-> Add application screenshots here.
-
-```
-/screenshots
-
-Home.png
-ReportIssue.png
-Dashboard.png
-Map.png
-Analytics.png
-```
-
----
 
 # 🚀 Getting Started
 
